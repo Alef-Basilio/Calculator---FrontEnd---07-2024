@@ -8,5 +8,5 @@
 </br>
 
 ### ABOUT/SOBRE:
-A exclusive project for my faculty.
+A exclusive project for my faculty. </br>
 Um projeto exclusivo para minha faculdade.
