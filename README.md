@@ -8,5 +8,5 @@
 </br>
 
 ### ABOUT/SOBRE:
-A exclusive project for my faculty using Tkinter and the Python Imaging Library. </br>
-Um projeto exclusivo para a minha faculdade usando o Tkinter e a Python Imaging Library.
+A exclusive project for my faculty using Python, Tkinter and the Python Imaging Library. </br>
+Um projeto exclusivo para a minha faculdade usando o Python, Tkinter e a Python Imaging Library.
