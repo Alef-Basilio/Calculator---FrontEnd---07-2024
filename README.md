@@ -8,5 +8,5 @@
 </br>
 
 ### ABOUT/SOBRE:
-A exclusive project for my faculty. </br>
-Um projeto exclusivo para a minha faculdade.
+A exclusive project for my faculty using Tkinter and the Python Imaging Library. </br>
+Um projeto exclusivo para a minha faculdade usando o Tkinter e a Python Imaging Library.
