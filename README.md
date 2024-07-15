@@ -9,3 +9,4 @@
 
 ### ABOUT/SOBRE:
 A exclusive project for my faculty.
+Um projeto exclusivo para minha faculdade.
