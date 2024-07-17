@@ -1,4 +1,4 @@
-<h2 align="center">Digital kid's calculator/Calculadora infantil digital</h2>
+<h2 align="center">Digital Kid's Calculator/Calculadora Infantil Digital</h2>
 
 <p align="center">
   <p align="center">
