@@ -1,7 +1,7 @@
 <h2 align="center">Digital Kid's Calculator/Calculadora Infantil Digital</h2>
 
 <p align="center">
-<b>An e-commerce where the user can browse the home page and see the products.</b>
+<b>An exclusive project for my college.</b>
 </p>
 
 <p align="center">
