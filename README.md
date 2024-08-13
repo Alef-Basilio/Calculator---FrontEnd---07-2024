@@ -1,10 +1,6 @@
 <h2 align="center">Digital Kid's Calculator/Calculadora Infantil Digital</h2>
 
 <p align="center">
-<b>An exclusive project for my college.</b>
-</p>
-
-<p align="center">
   <p align="center">
     <img src="./interface.jpg" width="100%">
   </p>
