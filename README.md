@@ -1,6 +1,10 @@
 <h2 align="center">Digital Kid's Calculator/Calculadora Infantil Digital</h2>
 
 <p align="center">
+<b>An e-commerce where the user can browse the home page and see the products.</b>
+</p>
+
+<p align="center">
   <p align="center">
     <img src="./interface.jpg" width="100%">
   </p>
