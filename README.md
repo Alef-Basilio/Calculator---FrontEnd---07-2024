@@ -9,4 +9,4 @@
 
 ### ABOUT/SOBRE:
 An exclusive project for my college using Python, Tkinter and the Python Imaging Library. </br>
-Um projeto exclusivo para a minha faculdade usando o Python, Tkinter e a Python Imaging Library.
+Um projeto exclusivo para minha faculdade usando o Python, Tkinter e a Python Imaging Library.
