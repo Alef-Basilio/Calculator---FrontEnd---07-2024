@@ -9,4 +9,6 @@
 
 ### ABOUT/SOBRE:
 An exclusive project for my college using Python, Tkinter and the Python Imaging Library. </br>
-Um projeto exclusivo para minha faculdade usando o Python, Tkinter e a Python Imaging Library.
+Um projeto exclusivo para minha faculdade usando o Python, Tkinter e a Python Imaging Library. </br></br>
+The objective was to put into practice the knowledge of the discipline “Rapid Development of Applications in Python” through some useful action for society. </br>
+O objetivo era colocar em prática os conhecimentos da cadeira “Desenvolvimento Rápido de Aplicações em Python” através de alguma ação útil para fins sociais.
