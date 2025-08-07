@@ -2,7 +2,7 @@
 
 <p align="center">
   <p align="center">
-    <img src="./interface.jpg" width="100%">
+    <img alt="Reload the page to see" src="./interface.jpg" width="100%">
   </p>
 </p>
 </br>
